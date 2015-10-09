@@ -1,5 +1,5 @@
 # promptcloud_data_api_python
-	This is [PromptCloud's](http://promptcloud.com) data API downloader in python. It can be used to fetch the client specific data from PromptCloud data API. Available API versions are v1 and v2.
+This is [PromptCloud's](http://promptcloud.com) data API downloader in python. It can be used to fetch the client specific data from PromptCloud data API. Available API versions are v1 and v2.
 
 ##Installing:
 
@@ -14,7 +14,7 @@
 
 ##Usage: promptcloud_data_api.py [options] 
 
-##Options:
+## Options:
   -h, --help            show this help message and exit
   --apiconf=APICONF     override the config file location, the file which
                         stores information like client_id, downloadir,
