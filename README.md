@@ -15,6 +15,7 @@ This is [PromptCloud's](http://promptcloud.com) data API downloader in python. I
 ##Usage: promptcloud_data_api.py [options] 
 
 ## Options:
+```
   -h, --help            show this help message and exit
   --apiconf=APICONF     override the config file location, the file which
                         stores information like client_id, downloadir,
@@ -41,7 +42,7 @@ This is [PromptCloud's](http://promptcloud.com) data API downloader in python. I
   --user=USER           Data api user id
   --pass=PASSWD         Data api password
   --client_auth_key=CLIENT_AUTH_KEY
-
+```
 ##Example ::
 
 ###Initial Setup:
